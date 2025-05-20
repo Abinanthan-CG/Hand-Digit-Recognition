@@ -202,3 +202,18 @@ This project was created and developed by **Abinanthan D**. Connect with me:
 <a href="https://www.linkedin.com/in/abinanthan-d-6a157529a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
+
+## 🙏 Acknowledgements
+
+This project was made possible by and builds upon the work of many incredible open-source communities and resources. Special thanks to:
+
+*   **The Naan Mudhalvan Initiative (Government of Tamil Nadu):** For providing the platform and encouragement to undertake this project.
+*   **TensorFlow & Keras Team:** For developing and maintaining powerful and accessible deep learning libraries.
+*   **Streamlit Team:** For creating an intuitive framework that makes building interactive data applications straightforward.
+*   **The Creators of the MNIST Dataset:** For providing a foundational dataset that has propelled research in machine learning and computer vision for decades.
+*   **The developers of `streamlit-drawable-canvas`, `Altair`, `Pillow`, `NumPy`, `Pandas`, and other open-source Python libraries** used in this project.
+*   *(Optional: Any specific tutorials, mentors, or individuals who provided significant help).*
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Abinanthan-CG/Hand-Digit-Recognition/blob/main/LICENSE) file for details.
