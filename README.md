@@ -212,7 +212,6 @@ This project was made possible by and builds upon the work of many incredible op
 *   **Streamlit Team:** For creating an intuitive framework that makes building interactive data applications straightforward.
 *   **The Creators of the MNIST Dataset:** For providing a foundational dataset that has propelled research in machine learning and computer vision for decades.
 *   **The developers of `streamlit-drawable-canvas`, `Altair`, `Pillow`, `NumPy`, `Pandas`, and other open-source Python libraries** used in this project.
-*   *(Optional: Any specific tutorials, mentors, or individuals who provided significant help).*
 
 ## 📜 License
 
